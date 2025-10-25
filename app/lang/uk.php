@@ -1,0 +1,36 @@
+<?php
+return [
+  'site.title' => 'Мої картки',
+  'nav.my_decks' => 'Мої колоди',
+  'user.decks' => 'Колод',
+  'user.categories' => 'Категорій',
+  'user.edit_profile' => 'Редагувати профіль',
+  'auth.logout' => 'Вийти',
+  'direction.badge' => 'Напрям',
+  'alert.no_direction' => 'Напрям ще не встановлено. Зв’яжіться з підтримкою або дочекайтеся доступу до колоди — напрям встановиться автоматично.',
+  'alert.no_decks' => 'Поки тут порожньо — додайте першу колоду в адмін-панелі.',
+  'deck.locked' => 'Заблоковано',
+  'deck.learn' => 'Вчити',
+  'deck.preview' => 'Перегляд',
+  'deck.progress' => 'Прогрес',
+  'ui.lang' => 'Мова',
+  'common.decks'   => 'Колоди',     // uk
+  'common.total'   => 'всього',
+  'common.no_cards'=> 'У цій колоді ще немає карток.',
+    // uk
+  'progress.chip.learning' => 'Вивчення',
+  'progress.chip.known'    => 'Знаю',
+  'progress.btn.dont_know' => 'Не знаю',
+  'progress.btn.shuffle'   => 'Перемішати',
+  'progress.btn.know'      => 'Знаю',
+  'progress.final.title'   => 'Чудово! Ви майже на фініші.',
+  'progress.final.subtitle'=> 'Ваш прогрес',
+  'progress.bar.known'     => 'Знаю',
+  'progress.bar.learning'  => 'Вивчення',
+  'progress.bar.remaining' => 'Залишилось',
+  'progress.btn.restart'   => 'Почати спочатку',
+  'progress.btn.go_to_learn'=> 'Перейти до навчання',
+  // uk
+  'learn.badge.preview' => 'Перегляд',
+  'learn.preview.msg'   => 'Режим перегляду: показано лише перші {n} карток.',
+];
