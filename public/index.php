@@ -89,6 +89,7 @@ $owned = array_fill_keys(array_map('intval', $ownedDeckIds), true);
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+  <link rel="icon" type="image/png" href="/cards-app/public/images/golova.png">
   <style>
     :root{
       --bg-1:#ffffff; --bg-2:#f5f9ff;

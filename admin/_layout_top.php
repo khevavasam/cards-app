@@ -9,6 +9,7 @@
   <title><?= htmlspecialchars($pageTitle ?? 'Admin') ?></title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style_admin.css">
+  <link rel="icon" type="image/png" href="/cards-app/public/images/golova.png">
   <style>
     .sidebar{min-width:230px;max-width:230px}
     .sidebar a{display:block;padding:.5rem .75rem;color:#333;text-decoration:none;border-radius:.5rem}
